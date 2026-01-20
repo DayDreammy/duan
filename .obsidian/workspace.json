@@ -1,0 +1,454 @@
+{
+  "main": {
+    "id": "91b6a9cadaa0fb79",
+    "type": "split",
+    "children": [
+      {
+        "id": "42d60f70af7275de",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "81f727abaffecfad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "【文章目录】/4-网易博客集/001-2020年08月06日.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "001-2020年08月06日"
+            }
+          },
+          {
+            "id": "be6f99f7577116a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          },
+          {
+            "id": "2ac9cd8f37c412ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "【文章目录】/2-对外演讲、采访/04-2010-网易财经-对话段永平.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "04-2010-网易财经-对话段永平"
+            }
+          },
+          {
+            "id": "26b70a8e329559ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "【文章目录】/2-对外演讲、采访/05-2004-万科财富人生-对话段永平.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "05-2004-万科财富人生-对话段永平"
+            }
+          },
+          {
+            "id": "2611d7c714b60fbf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "【文章目录】/2-对外演讲、采访/03-2008-段永平浙大分享.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "03-2008-段永平浙大分享"
+            }
+          },
+          {
+            "id": "cd7766e115700289",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "【文章目录】/2-对外演讲、采访/06-2006-资本人物-专访段永平.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "06-2006-资本人物-专访段永平"
+            }
+          },
+          {
+            "id": "6fa80cf06422f661",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "【文章目录】/2-对外演讲、采访/07-2006-网易专访段永平-谈和巴菲特共进午餐.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "07-2006-网易专访段永平-谈和巴菲特共进午餐"
+            }
+          },
+          {
+            "id": "cfa17570e298a767",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "【文章目录】/2-对外演讲、采访/08-2004（左右）-段永平北大总裁班演讲：企业的诚信意识.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "08-2004（左右）-段永平北大总裁班演讲：企业的诚信意识"
+            }
+          },
+          {
+            "id": "a4ff8d66c2e83bb1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "【文章目录】/2-对外演讲、采访/10-2025-段永平浙大分享.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "10-2025-段永平浙大分享"
+            }
+          },
+          {
+            "id": "135d264caa10ae6c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "【文章目录】/2-对外演讲、采访/11-2025-雪球-方三文对话段永平，做自己能够喜欢的事情很重要.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "11-2025-雪球-方三文对话段永平，做自己能够喜欢的事情很重要"
+            }
+          },
+          {
+            "id": "5fba0763f44e6640",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "【文章目录】/2-对外演讲、采访/12-2025-王石对话段永平.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "12-2025-王石对话段永平"
+            }
+          },
+          {
+            "id": "f4b0374c65a19d56",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          }
+        ],
+        "currentTab": 11
+      },
+      {
+        "id": "eda8dae7e24454b1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c0e25df84ef2c0a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "【文章目录】/4-网易博客集/597-关于段永平的学位和学历.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "597-关于段永平的学位和学历"
+            }
+          },
+          {
+            "id": "b9964e247a123e0f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "【文章目录】/1-核心-公司里程碑/01-1999-段永平-二十一世纪来了.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01-1999-段永平-二十一世纪来了"
+            }
+          },
+          {
+            "id": "397155180ef1f4a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "【文章目录】/2-对外演讲、采访/09-2018-段永平斯坦福交流.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "09-2018-段永平斯坦福交流"
+            }
+          },
+          {
+            "id": "6f3df7e4dff0a141",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "【文章目录】/4-网易博客集/597-关于段永平的学位和学历.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "597-关于段永平的学位和学历"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "54f51e285ead25b4",
+    "type": "split",
+    "children": [
+      {
+        "id": "8292503f05a39928",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6c69a98413d0858b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e493337261fd6c3e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "成为更健康、更长久的世界一流企业",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "5d4e793ee2907084",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 531.5
+  },
+  "right": {
+    "id": "e4a67fa53f2e9ed6",
+    "type": "split",
+    "children": [
+      {
+        "id": "26af60b208920cf3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bf4db2186006634a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "【文章目录】/01-核心-公司里程碑/01-1999-段永平-二十一世纪来了.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 01-1999-段永平-二十一世纪来了"
+            }
+          },
+          {
+            "id": "fb7f2e4d3e7b5884",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "【文章目录】/01-核心-公司里程碑/01-1999-段永平-二十一世纪来了.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 01-1999-段永平-二十一世纪来了"
+            }
+          },
+          {
+            "id": "e5b536e19d99eeb6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "053ddfab39c7030f",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "8380c1140db44d08",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "【文章目录】/01-核心-公司里程碑/01-1999-段永平-二十一世纪来了.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 01-1999-段永平-二十一世纪来了"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "publish:Publish changes...": false
+    }
+  },
+  "active": "f4b0374c65a19d56",
+  "lastOpenFiles": [
+    "【文章目录】/1-核心-公司里程碑/07-2025-沈炜：步步高（vivo）30周年：坚守本分 基业长青.md",
+    "【文章目录】/1-核心-公司里程碑/06-2020（推测）-OPPO 企业文化.md",
+    "【文章目录】/1-核心-公司里程碑/05-2015-沈炜-步步高（vivo）20周年.md",
+    "【文章目录】/1-核心-公司里程碑/04-2005-段永平-步步高十周年记念文艺晚会讲话.md",
+    "【文章目录】/1-核心-公司里程碑/03-2005-陈明永-步步高十周年记念文艺晚会讲话.md",
+    "【文章目录】/1-核心-公司里程碑/02-2001（推测）-步步高企业文化.md",
+    "【文章目录】/1-核心-公司里程碑/01-1999-段永平-二十一世纪来了.md",
+    "【文章目录】/2-对外演讲、采访/09-2018-段永平斯坦福交流.md",
+    "【文章目录】/2-对外演讲、采访/12-2025-王石对话段永平.md",
+    "【文章目录】/2-对外演讲、采访/11-2025-雪球-方三文对话段永平，做自己能够喜欢的事情很重要.md",
+    "【文章目录】/2-对外演讲、采访/10-2025-段永平浙大分享.md",
+    "【文章目录】/2-对外演讲、采访/08-2004（左右）-段永平北大总裁班演讲：企业的诚信意识.md",
+    "【文章目录】/2-对外演讲、采访/07-2006-网易专访段永平-谈和巴菲特共进午餐.md",
+    "【文章目录】/2-对外演讲、采访/06-2006-资本人物-专访段永平.md",
+    "【文章目录】/2-对外演讲、采访/03-2008-段永平浙大分享.md",
+    "【文章目录】/2-对外演讲、采访/05-2004-万科财富人生-对话段永平.md",
+    "【文章目录】/2-对外演讲、采访/04-2010-网易财经-对话段永平.md",
+    "【文章目录】/2-对外演讲、采访/02-2006-秦朔专访段永平.md",
+    "【文章目录】/2-对外演讲、采访/01-2007-波士堂专访段永平，谈价值投资，上市，企业.md",
+    "README.md",
+    "【文章目录】/4-网易博客集/597-关于段永平的学位和学历.md",
+    "Untitled.md",
+    "出版/12-2025-王石对话段永平.pdf",
+    "【文章目录】/全书目录.md",
+    "【文章目录】/4-网易博客集/001-2020年08月06日.md",
+    "【文章目录】/4-网易博客集/253-【转载】天使妈妈遭质疑，民间慈善更要守护善意.md",
+    "【文章目录】/4-网易博客集/263-【转载】芒格主义.md",
+    "【文章目录】/2-对外演讲、采访/attachments/PixPin_2026-01-20_19-03-56.png",
+    "【文章目录】/2-对外演讲、采访/attachments/PixPin_2026-01-20_19-03-14.png",
+    "出版/全书目录.pdf",
+    "【文章目录】/2-对外演讲、采访/attachments/PixPin_2026-01-20_17-18-31.png",
+    "【文章目录】/2-对外演讲、采访/attachments/PixPin_2026-01-20_10-58-24 1.png",
+    "【文章目录】/2-对外演讲、采访/attachments/PixPin_2026-01-20_10-58-24.png",
+    "【文章目录】/2-对外演讲、采访/attachments/PixPin_2026-01-20_10-58-12.png",
+    "【文章目录】/2-对外演讲、采访/attachments/PixPin_2026-01-20_10-12-01.png",
+    "【文章目录】/2-对外演讲、采访/attachments/PixPin_2026-01-20_00-23-46.png",
+    "【文章目录】/2-对外演讲、采访/attachments/PixPin_2026-01-20_00-23-08.png",
+    "【文章目录】/2-对外演讲、采访/attachments/PixPin_2026-01-20_00-09-53.png",
+    "【文章目录】/2-对外演讲、采访/[p10]段永平2025年第一站浙大交流会 全录版转录.txt",
+    "【文章目录】/2-对外演讲、采访/attachments",
+    "【文章目录】/1-核心-公司里程碑/attachments",
+    "出版",
+    "摘抄笔记本",
+    "【文章目录】",
+    "【文章目录】/4-网易博客集",
+    "【文章目录】/3-雪球问答录"
+  ]
+}

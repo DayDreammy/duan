@@ -1,0 +1,23 @@
+/*
+
+This CSS file will be included with your plugin, and
+available in the app when your plugin is enabled.
+
+If your plugin does not need CSS, delete this file.
+
+*/
+
+.note-path{
+    color:grey;
+    font-size: smaller;
+}
+
+span.broken-link {
+    color: red !important;
+}
+
+.settings-help-icon {
+    margin-left: var(--size-4-2);
+    display: inline-flex;
+    width: var(--icon-xs);
+}

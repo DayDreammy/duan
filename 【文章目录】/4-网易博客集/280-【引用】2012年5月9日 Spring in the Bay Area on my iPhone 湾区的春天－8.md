@@ -1,0 +1,7 @@
+# [【引用】2012年5月9日 Spring in the Bay Area on my iPhone 湾区的春天－8](http://nteswjq.blog.163.com/blog/static/12699812012410115352135/)
+*发表于：* 2012-05-10 11:53:52
+
+Bay Bridge and Treasure Island, San Francisco 旧金山湾桥和珍宝岛
+
+**评论**
+<ul><li><strong>段永平</strong> (2012-05-10 11:56): iphone能拍成这样真不错啊，还是隔着玻璃拍的。<ul><li><strong>绿色茶农</strong> → 段永平 (2012-05-10 17:28): 美丽的天空，蔚蓝的大海。美！</li><li><strong>茶水铺</strong> → 段永平 (2012-05-11 11:21): 技术也不错啊，虽然只是按一下快门而已，有技术和没技术相差很大，买股票有点类似。</li><li><strong>段永平</strong> → 茶水铺 (2012-05-11 12:16): 顶级专业人士当然不错 。</li><li><strong>伍兴</strong> → 段永平 (2012-05-13 21:19): 这拍照的技术真好，学习学习！</li></ul></li><li><strong>njc723</strong> (2012-05-10 20:04): 段哥：同样是500万像素为何区别那么大呢？难道没有标准吗？我的500万的华为为何拍不出这么好的效果呢？应与水平没太大的关系，几乎都是傻瓜式地拍。<ul><li><strong>张信华</strong> → njc723 (2012-05-11 00:12): This is a very good question!</li><li><strong>段永平</strong> → 张信华 (2012-05-11 04:15): this is a funny question because iphone4s 的像素好像不是500万。</li><li><strong>施志强</strong> → 段永平 (2012-05-11 20:23): 苹果4和4S像素都是960*640的屏幕配置都一样 摄像头的话苹果4的主摄像头是500W 苹果4S的是800W 他们的前置摄像头都是30W的</li></ul></li><li><strong>njc723</strong> (2012-05-11 20:10): 怪不得拍得好，iphone4s 的像素是800万。</li><li><strong>竹天</strong> (2012-05-10 16:37): 阳光高楼射影，碧水白帆星点，远处水、山、天一色；美、实在是美！</li><li><strong>poeme_gmat</strong> (2012-05-10 15:13): 风景秀色可餐，高楼在水中的阴影都非常清楚。</li><li><strong>金牛贺岁</strong> (2012-05-10 15:11): iphone拍的？构图很好啊</li><li><strong>击鼓不传花</strong> (2012-05-10 14:46): 太漂亮了。天是蓝的，水也是蓝的。</li></ul>
