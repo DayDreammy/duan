@@ -23,7 +23,7 @@
     "marginBottom": "10",
     "marginLeft": "10",
     "marginRight": "10",
-    "displayHeader": false,
+    "displayHeader": true,
     "displayFooter": true,
     "cssSnippet": "0"
   }
